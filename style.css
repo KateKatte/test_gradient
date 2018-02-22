@@ -1,8 +1,0 @@
-html 
-
-.block {
-	margin: auto;
-	width: 300px;
-	height: 100px;
-	background: linear-gradient(to top right, purple 10%, crimson 30%, orangered 50%, gold 75%);
-}
